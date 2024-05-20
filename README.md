@@ -1,5 +1,5 @@
-# 👨‍🚀🌘 Spacifik Model
+# 👨‍🚀 Spacifik Model
 
-My guiding principles for developing tech products:
+My guiding principles for building tech products:
 
-1. Customer Centricity: Elevate customer needs as the top priority. Be relentlessly focused on enhancing their experience. Stay close to them and talk with users on a regular basis. Understand their needs and pain points. Be their advocate.
+1. Customer Centricity: Customer needs are the top priority. Be relentlessly focused on enhancing the user experience. Stay close to the users, be a user of the products you build. Everyone should talk to users on a regular basis. Understand user needs and pain points deeply. Be their advocate.
